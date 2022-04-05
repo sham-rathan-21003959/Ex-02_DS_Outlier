@@ -21,9 +21,9 @@ Check if the outliersare removed from data set using graphical methods.
 Save the final data set into the file.
 
 ## CODE:
+```
 Developed By: Sham Rathan.S
 Register No: 212221230093
-```
 import pandas as pd
 df=pd.read_csv('weight.csv')
 df
